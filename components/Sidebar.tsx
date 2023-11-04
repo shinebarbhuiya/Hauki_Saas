@@ -105,6 +105,9 @@ const Sidebar = ({
         <FreeCounter 
             apiLimitCount = {apiLimitCount}
         />
+
+
+        
     </div>
     
   )
